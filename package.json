@@ -1,0 +1,19 @@
+{
+  "name": "wargame",
+  "version": "1.0.0",
+  "description": "A simple wargame-like server",
+  "main": "WarGame.js",
+  "scripts": {
+    "test": "node WarGame.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2l42h3r/WarGame.git"
+  },
+  "author": "Sl4sher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2l42h3r/WarGame/issues"
+  },
+  "homepage": "https://github.com/2l42h3r/WarGame#readme"
+}

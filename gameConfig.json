@@ -1,0 +1,8 @@
+{
+	"minBravery":1,
+	"maxBravery":4,
+	"minWisdom":1,
+	"maxWisdom":6,
+	"minLuck":1,
+	"maxLuck":6
+}
