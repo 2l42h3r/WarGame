@@ -17,4 +17,4 @@ try {
 	// handle lack of gamestate
 }
 
-console.log($.csv.toArrays(fs.readFileSync("./provinces.csv", "utf8")));
+console.log($.csv.toArrays(fs.readFileSync("./provinces.csv", "utf8"))[0][0]);
