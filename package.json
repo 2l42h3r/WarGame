@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/2l42h3r/WarGame/issues"
   },
-  "homepage": "https://github.com/2l42h3r/WarGame#readme"
+  "homepage": "https://github.com/2l42h3r/WarGame#readme",
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "jquery-csv": "^0.8.12",
+    "jsdom": "^14.0.0"
+  }
 }

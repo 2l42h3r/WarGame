@@ -1,8 +1,15 @@
 {
+	"startMoney":20,
 	"minBravery":1,
 	"maxBravery":4,
 	"minWisdom":1,
 	"maxWisdom":6,
 	"minLuck":1,
-	"maxLuck":6
+	"maxLuck":6,
+	"minStability":-3,
+	"maxStability":3,
+	"spyMasterAdditive":10,
+	"spyActionBonus":2,
+	"standardStability":0,
+	"stabilityNormalizer":0.25
 }
